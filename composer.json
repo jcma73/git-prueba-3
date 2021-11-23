@@ -1,0 +1,15 @@
+{
+    "name": "clodo/git-prueba-1",
+    "autoload": {
+        "psr-4": {
+            "Clodo\\GitPrueba1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Claudio Martin Alonso",
+            "email": "jcma73@yahoo.es"
+        }
+    ],
+    "require": {}
+}
