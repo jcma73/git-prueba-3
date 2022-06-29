@@ -12,3 +12,6 @@ $saludo2->saludar();
 
 $grito = new grito("Esto del git es una pasada");
 $grito->gritar();
+
+$saludo3 = new Saludo("Fermin");
+$saludo3->saludar();
